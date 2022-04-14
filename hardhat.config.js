@@ -20,9 +20,9 @@ module.exports = {
   solidity: "0.8.4",
   networks: {
     rinkeby: {
-      url: `https://rinkeby.infura.io/v3/e71ae2ad18264e46bc4aa0412706c707`,
+      url: `https://rinkeby.infura.io/v3/************`,
       accounts: [
-        `47c99abed3324a2707c28affff1267e45918ec8c3f20b8aa892e8b065d2942dd`,
+        `**********************`,
       ],
     },
   },
